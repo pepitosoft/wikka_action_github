@@ -31,8 +31,8 @@ if ( isset($user) && isset($repo) ){
   $git_repo = $repo;
 } else {
   //Default Readme is WikkaWiki, I have to ask for better Readme.
-  $git_user = "wikkawik";
-  $git_repo = "WikkaWiki";
+  $git_user = "pepitosoft";
+  $git_repo = "wikka_action_github";
 }
 
 $api = "repo";
