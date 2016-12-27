@@ -6,7 +6,7 @@
 
 ## What is this?
 
-This is a a action plugin for easily integrate GitHub projects.
+This is a a action plugin for easily integrate GitHub projects. For now only get the README of the project, but this can grow.
 
 Easy step:
 
