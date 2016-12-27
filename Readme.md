@@ -1,8 +1,8 @@
 # WikkaWiki GitHub Action plugin
 
-[![GitHub](https://raw.githubusercontent.com/pepitosoft/wikka_action_github/images/d3icon.png)](https://d3js.org/)
-[![WikkaWiki](https://raw.githubusercontent.com/pepitosoft/wikka_action_github/images/wizard.gif)](http://wikkawiki.org/HomePage)
-[![KnpLabs/php-github-api](https://raw.githubusercontent.com/pepitosoft/wikka_action_github/images/KnpLabs.png)](https://github.com/KnpLabs/php-github-api)
+[![GitHub](https://raw.githubusercontent.com/pepitosoft/wikka_action_github/master/images/github.png)](https://d3js.org/)
+[![WikkaWiki](https://raw.githubusercontent.com/pepitosoft/wikka_action_github/master/images/wizard.gif)](http://wikkawiki.org/HomePage)
+[![KnpLabs/php-github-api](https://raw.githubusercontent.com/pepitosoft/wikka_action_github/master/images/KnpLabs.png)](https://github.com/KnpLabs/php-github-api)
 
 ## What is this?
 
